@@ -15,6 +15,7 @@ Certifique-se de que seu servidor esteja em execução enquanto você estiver te
 
 Usar --> http://localhost:3001/
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 1- Configuração do Ambiente: Foi instalado o Node.js e o pacote express foi adicionado para criar um servidor web.
 
 2- Configuração da Autenticação do Google Sheets: Utilizando o Google APIs Client Library for Node.js, foi configurada a autenticação para acessar o Google Sheets. Isso envolveu a criação de um arquivo de credenciais JSON 
