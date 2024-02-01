@@ -14,7 +14,7 @@ Envie uma solicitação POST para /updateValues com dados para atualizar os valo
 Certifique-se de que seu servidor esteja em execução enquanto você estiver testando os endpoints. Você receberá respostas do servidor com base nas solicitações que enviar.
 
 Usar --> http://localhost:3001/
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 1- Configuração do Ambiente: Foi instalado o Node.js e o pacote express foi adicionado para criar um servidor web.
 
 2- Configuração da Autenticação do Google Sheets: Utilizando o Google APIs Client Library for Node.js, foi configurada a autenticação para acessar o Google Sheets. Isso envolveu a criação de um arquivo de credenciais JSON 
